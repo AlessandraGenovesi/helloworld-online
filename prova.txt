@@ -1,3 +1,2 @@
 Hello world!
-Aggiunta seconda riga locale
 Seconda riga remota
